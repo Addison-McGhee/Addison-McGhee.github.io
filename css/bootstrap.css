@@ -1350,7 +1350,7 @@ a.text-primary:focus {
   color: #18bc9c;
 }
 .text-success {
-  color: #ffffff;
+  color: #000000;
 }
 a.text-success:hover,
 a.text-success:focus {
