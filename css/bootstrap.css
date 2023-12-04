@@ -4227,6 +4227,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar-header {
+    color: #000000;
+    background-color: #000000;
     float: left;
   }
 }
