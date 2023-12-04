@@ -1386,7 +1386,7 @@ a.bg-primary:focus {
   background-color: #18bc9c;
 }
 .bg-success {
-  background-color: #18bc9c;
+  background-color: #000000;
 }
 a.bg-success:hover,
 a.bg-success:focus {
