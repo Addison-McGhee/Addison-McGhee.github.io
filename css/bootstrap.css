@@ -4323,6 +4323,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
+  background-color: #000000;
+  color: #000000;
   float: left;
   padding: 19.5px 15px;
   font-size: 19px;
@@ -6809,6 +6811,8 @@ button.close {
   color: #18bc9c;
 }
 .navbar-brand {
+  background-color: #000000;
+  color: #000000;
   line-height: 1;
 }
 .btn {
