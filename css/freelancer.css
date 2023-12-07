@@ -23,6 +23,7 @@ a:active,
 a.active {
     outline: 0;
     color: #18bc9c;
+    background-color: #18bc9c;
 }
 
 h1,
@@ -191,6 +192,7 @@ section.success a:active,
 section.success a.active {
     outline: 0;
     color: #000000;
+    background-color: #18bc9c;
 }
 
 @media(max-width:767px) {
