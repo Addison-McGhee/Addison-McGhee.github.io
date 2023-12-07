@@ -4088,7 +4088,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #000000;
-  background-color: #ffffff;
+  background-color: #18bc9c;
   border: 1px solid #ecf0f1;
   border-bottom-color: transparent;
   cursor: default;
