@@ -4627,6 +4627,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default .navbar-link {
+  background-color: #18bc9c;
   color: #18bc9c;
 }
 .navbar-default .navbar-link:hover {
@@ -4650,6 +4651,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   border-color: transparent;
 }
 .navbar-inverse .navbar-brand {
+  background-color: #18bc9c;
   color: #ffffff;
 }
 .navbar-inverse .navbar-brand:hover,
@@ -4688,7 +4690,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: #128f76;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: #ffffff;
+  background-color: #128f76;
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
