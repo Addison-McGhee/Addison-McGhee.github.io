@@ -1,9 +1,9 @@
 // 1. place to hold the dashboard
 const vizContainer = document.getElementById("vizContainer");
 // 2. URL for the automatic sized dashboard
-const autoURL = "yourAutomaticSizedDashboardURL";
+const autoURL = "https://public.tableau.com/views/2022_playoffs/2022_Super_Bowl?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link";
 //   3. URL for the fixed sized dashboard
-const fixedURL = "yourFixedSizeDashboardURL";
+const fixedURL = "https://public.tableau.com/views/2022_playoffs/2022_Super_Bowl?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link";
 let viz;
 const options = {
   height: window.innerHeight,
