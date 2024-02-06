@@ -96,26 +96,14 @@
     </nav>
 
     
-     <section id="NFL">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-offset-2 col-lg-8 text-center">
-                    <br>
-                    <hr class="star-primary">
-                    <p style="font-size:115%;"></p>
-                    <p style="font-size:115%;">
-                     
-                    </p>
-                    <br>
+     <div style="width:1200px; height:1000px;">  
+        <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js"> 
 
-                     <!-- a place to store the Tableau dashboard -->
-                    <div id="vizContainer"></div>
+        </script>  
 
-               
-                </div>
-            </div>
-        </div>
-    </section>
+        <tableau-viz id="tableauViz" src="https://public.tableau.com/views/2022_playoffs/2022_Super_Bowl?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"  toolbar="bottom" hide-tabs>  
+        </tableau-viz>  
+    </div>  
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
